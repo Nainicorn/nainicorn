@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi! My name is Naina:)
-<br>I am currently building Edoara, a curated learning platform<br>
-I am also working on multiple personal projects, the AWS Generative AI Professional certification, and a senior design capstone project with Leidos
+<br>I am currently building Edoara, a curated learning platform which I plan to launch soon<br>
+I am also working on multiple personal projects, the AWS Generative AI Professional certification, and a co-op with Leidos
 
 
 ## 🌐 Socials:
