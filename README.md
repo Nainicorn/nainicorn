@@ -8,10 +8,10 @@
 ## currently...
 
 ```
-debugging/planning/designing until 2 AM
-developing text-to-3D agentic pipeline
-building agent safety middleware framework
-studying for AWS Generative AI certification
+* debugging/planning/designing until 2 AM
+* developing text-to-3D agentic pipeline
+* building agent safety middleware framework
+* studying for AWS Generative AI certification
 ```
 
 ## my toolkit
