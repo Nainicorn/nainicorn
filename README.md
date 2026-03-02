@@ -1,6 +1,6 @@
 # HI, I'm Naina:)
 
-## Connect with me 🌸
+## 🌸 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreenaina-koujala-a65821192/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/nains_k)
 
@@ -12,7 +12,7 @@
 - developing a **text-to-3D agentic full-stack pipeline** with Leidos (co-op)
 ---
 
-## A glimpse at my favorites...
+## 🌸 A glimpse at my favorites...
 
 ### AI & Agents
 ![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
