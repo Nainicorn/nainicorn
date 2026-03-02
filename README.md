@@ -1,18 +1,10 @@
-<div align="center">
-  
 ## ✦ hi, i'm naina ✦
-
-</div>
 
 ## connect with me !
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreenaina-koujala-a65821192/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/nains_k)
 
----
-
 > *"perpetually building..."*
-
----
 
 ## currently...
 
