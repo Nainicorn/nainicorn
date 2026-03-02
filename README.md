@@ -54,7 +54,7 @@
 
 ---
 
-## Some Stats
+## 🌸 Some Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=nainicorn&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=nainicorn&theme=radical&hide_border=true)
