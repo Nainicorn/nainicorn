@@ -53,9 +53,3 @@
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 ---
-
-## 🌸 Some Stats
-
-![](https://github-readme-stats.vercel.app/api?username=nainicorn&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=nainicorn&theme=radical&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nainicorn&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
