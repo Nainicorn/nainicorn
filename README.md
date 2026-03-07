@@ -15,7 +15,7 @@
 * studying for AWS Generative AI certification
 ```
 
-## my toolkit
+## my toolkit (bits & bolts)
 
 ### AI & Agents
 ![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
