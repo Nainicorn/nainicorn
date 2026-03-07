@@ -9,8 +9,9 @@
 
 ```
 * debugging/planning/designing until 2 AM
-* developing text-to-3D agentic pipeline
-* building agent safety middleware framework
+* developing text-to-3D agentic pipeline - BuilTING
+* building agent safety middleware framework - Truss
+* building maritime intelligence system - Nautica
 * studying for AWS Generative AI certification
 ```
 
