@@ -9,9 +9,9 @@
 
 ```
 * debugging/planning/designing until 2 AM
-* developing text-to-3D agentic pipeline - BuilTING
-* building agent safety middleware framework - Truss
-* building maritime intelligence system - Nautica
+* developing text-to-3D generation app - BuilTING
+* building 3D-world-builder - Atlas
+* building one-stop-shop for devs & dreamers - Occam
 * studying for AWS Generative AI certification
 ```
 
