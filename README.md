@@ -9,10 +9,11 @@
 
 ```
 * debugging/planning/designing until 2 AM
+* building cognitive-science driven adaptive learning startup - Edoara
 * developing text-to-3D generation app - BuilTING
-* building 3D-world-builder - Atlas
-* building one-stop-shop for devs & dreamers - Occam
-* studying for AWS Generative AI certification
+* creating more features - Nautica
+* architecting one-stop-shop for devs & dreamers - Occam
+* side quest project with @sunshine-sydney - Flow State
 ```
 
 ## my toolkit (bits & bolts)
