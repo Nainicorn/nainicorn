@@ -12,7 +12,7 @@
 * building cognitive-science driven adaptive learning startup - Edoara
 * developing text-to-3D generation app - BuilTING
 * creating more features - Nautica
-* architecting one-stop-shop for devs & dreamers - Occam
+* architecting cool extension for devs & dreamers - Occam
 * side quest project with @sunshine-sydney - Flow State
 ```
 
