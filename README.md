@@ -9,11 +9,10 @@
 
 ```
 * debugging/planning/designing until 2 AM
-* building cognitive-science driven adaptive learning startup - Edoara
+* building structured learning platform - Edoara
 * developing text-to-3D generation app - BuilTING
 * creating more features - Nautica
 * architecting cool extension for devs & dreamers - Occam
-* side quest project with @sunshine-sydney - Flow State
 ```
 
 ## my toolkit (bits & bolts)
