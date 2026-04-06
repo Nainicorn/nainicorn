@@ -10,7 +10,6 @@
 ```
 * debugging/planning/designing until 12 AM (claude told me not to burnout lol)
 * building structured learning platform - Edoara
-* creating more features - Nautica
 ```
 
 ## my toolkit (bits & bolts)
