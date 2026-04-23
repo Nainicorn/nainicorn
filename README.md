@@ -8,7 +8,7 @@
 ## wyd...
 
 ```
-* debugging/planning/designing until 12 AM (claude told me not to burnout lol)
+* debugging/planning/designing until 12 AM
 * building startup - Edoara
 ```
 
