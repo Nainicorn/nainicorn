@@ -9,7 +9,7 @@
 
 ```
 * debugging/planning/designing until 12 AM
-* building startup - Edoara
+* building edoara & suja
 ```
 
 ## my toolkit (bits & bolts)
